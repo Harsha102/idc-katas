@@ -29,3 +29,4 @@ export const theFunction = () => {
 ```
 
 Inspired from - https://github.com/rgehan/hacktoberfest-2k18-katas
+Readme is nice
